@@ -1,4 +1,4 @@
-# Raydium
+# Orca
 
 * Generated via [codama](https://github.com/codama-idl/codama)
 * IDL [idl.json](./idl/idl.json)
